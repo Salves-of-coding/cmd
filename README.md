@@ -10,7 +10,7 @@
 
 ### [.gitignore1](https://nesoy.github.io/articles/2017-01/Git-Ignore)
 
-### [.gitignore](https://gbsb.tistory.com/11)
+### [.gitignore2](https://gbsb.tistory.com/11)
 
 ### [commit-message-tip](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
