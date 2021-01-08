@@ -10,7 +10,7 @@
 
 ### [.gitignore1](https://nesoy.github.io/articles/2017-01/Git-Ignore)
 
-### [.gitignore2](https://gbsb.tistory.com/11)
+### [.gitignore](https://gbsb.tistory.com/11)
 
 ### [commit-message-tip](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
@@ -20,6 +20,8 @@
 - [merge-conflict](https://wayhome25.github.io/git/2017/04/05/git-04-merge/)
 
 ### [delete-remote-repository-branch](https://remagine.tistory.com/17)
+
+### [git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
 
 
 ## MD
