@@ -1,5 +1,16 @@
 # 3주차
 
+## 학습 목표
+
+### git 간단한 명령어 익숙해지기
+```
+git pull//pull to local workspace modified part of remoete repository
+git add .//add tacked file to staging area
+git commit -m [커밋메시지]//commit "커밋메시지"
+git push//upload commits to remote repository
+```
+
+
 ## 활동
 - [x] git bash
 - [x] github 회원가입
@@ -10,8 +21,30 @@
 - [ ] github 프로필 꾸미기
 
 
+## 과제
+
+과제는 멤버 이원섭, 정윤환에게만 해당됩니다. 
+
+- 과제는 github organization에 있는 본인이 생성한 repos에 올려주세요.
+- 과제의 형식은 어떻든 상관 없습니다. e.g.소스파일, 텍스트파일, 블루프린트, 클래스파일
+- 과제는 어떤 것이든 프로그래밍과 관련있는 것이라면 좋습니다. e.g.백준 솔루션, 물리엔진 블루프린트, 에셋 등등
+- 과제는 **1월 23일 토요일**까지가 목표입니다.
+
+### 아래는 예제입니다.
+- [Hello world 출력하기](https://www.acmicpc.net/problem/2557)
+- [강한용사 육군 출력하기](https://www.acmicpc.net/problem/10718)
+- [두 정수 A B 의 합 출력하기](https://www.acmicpc.net/problem/1000)
+- [두 정수 A B 의 차 출력하기](https://www.acmicpc.net/problem/1001)
+- [두 정수 A B 의 곱 출력하기](https://www.acmicpc.net/problem/10998)
+- [두 정수 A B 의 몫 출력하기](https://www.acmicpc.net/problem/1008)
+- [두 정수 A B 로 사칙연산 해보기](https://www.acmicpc.net/problem/10869)
+- [세 정수 A B C 로 나머지 연산자 사용해보기](https://www.acmicpc.net/problem/10430)
+- [세 자리 수 곱셈 해보기](https://www.acmicpc.net/problem/2588)
+
+
+
+
 ## 모임 기록
 210109 MarkDown 관련 이야기 <br>
 210113 이원섭 추가 <br>
-210115 정윤환, 이원섭 git&github<br>
-구진원 (인증이 필요한 회원)
+210116 정윤환, 이원섭 git&github<br>
