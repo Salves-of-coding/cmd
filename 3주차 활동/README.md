@@ -23,7 +23,7 @@ git push//upload commits to remote repository
 
 ## 과제
 
-과제는 멤버 이원섭, 정윤환에게만 해당됩니다. 
+과제는 멤버 **이원섭, 정윤환**에게만 해당됩니다. 
 
 - 과제는 github organization에 있는 본인이 생성한 repos에 올려주세요.
 - 과제의 형식은 어떻든 상관 없습니다. e.g.소스파일, 텍스트파일, 블루프린트, 클래스파일
