@@ -23,9 +23,9 @@ git push//upload commits to remote repository
 
 - 210117 구진원 branch, clone, fork, pull request
 - [x] fork, clone
-- [ ] branch
-- [ ] pull request
-- [ ] github 프로필 꾸미기
+- [x] branch
+- [x] pull request
+- [x] github 프로필 꾸미기
 ```git
 git branch
 git branch -r
