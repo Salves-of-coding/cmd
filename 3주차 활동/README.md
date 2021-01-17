@@ -12,7 +12,7 @@ git push//upload commits to remote repository
 
 
 ## 활동
-- 210116 정윤환, 이원섭 git&github
+### 210116 정윤환, 이원섭 git&github
 - [x] git bash
 - [x] github 회원가입
 - [x] remote repos와 local repos생성하기
@@ -21,7 +21,7 @@ git push//upload commits to remote repository
 - [x] commit 예시.(기능단위 커밋)
 - [ ] github 프로필 꾸미기
 
-- 210117 구진원 branch, clone, fork, pull request
+### 210117 구진원 branch, clone, fork, pull request
 - [x] fork, clone
 - [x] branch
 - [x] pull request
