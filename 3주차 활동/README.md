@@ -2,7 +2,7 @@
 
 ## 학습 목표
 
-### git 간단한 명령어 익숙해지기
+### 210116 정윤환, 이원섭 git&github git 간단한 명령어 익숙해지기
 ```
 git pull//pull to local workspace modified part of remoete repository
 git add .//add tacked file to staging area
@@ -12,12 +12,19 @@ git push//upload commits to remote repository
 
 
 ## 활동
+- 210116 정윤환, 이원섭 git&github
 - [x] git bash
 - [x] github 회원가입
 - [x] remote repos와 local repos생성하기
 - [x] git 구조
 - [x] commit, push
 - [x] commit 예시.(기능단위 커밋)
+- [ ] github 프로필 꾸미기
+
+- 210117 구진원 branch, clone, fork, pull request
+- [ ] fork, clone
+- [ ] branch
+- [ ] pull request
 - [ ] github 프로필 꾸미기
 
 
