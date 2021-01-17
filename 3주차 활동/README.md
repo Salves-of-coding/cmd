@@ -22,10 +22,20 @@ git push//upload commits to remote repository
 - [ ] github 프로필 꾸미기
 
 - 210117 구진원 branch, clone, fork, pull request
-- [ ] fork, clone
+- [x] fork, clone
 - [ ] branch
 - [ ] pull request
 - [ ] github 프로필 꾸미기
+```git
+git branch
+git branch -r
+git branch -a
+
+git checkout -b [branch-name]// 현재 브랜치에서 내역을 복사해서 새 브랜치 만들기
+git checkout [branch-name]// 브랜치 옮겨다니기
+
+git push -u [저장공간 이름] [브랜치 이름]//  e.g. git push -u origin pullRequestTest
+```
 
 
 ## 과제
@@ -55,3 +65,4 @@ git push//upload commits to remote repository
 210109 MarkDown 관련 이야기 <br>
 210113 이원섭 추가 <br>
 210116 정윤환, 이원섭 git&github<br>
+210117 구진원 branch, clone, fork, pull request <br>
